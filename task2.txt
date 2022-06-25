@@ -1,0 +1,28 @@
+var array [ {
+    "name":"hari prasad",
+    "college":"KRCE",
+    "Dept":"cse"
+   },
+   {
+    "passed out year":"2021",
+    "languages known":"c",
+    "DOB":"06jun1999"
+   },
+   {
+     "Nationality":"india",
+     "mother tongue":"tamil",
+     "looking for":"good job"
+
+   },
+   {
+    "coding Skills":" c programmer",
+    "Hobby":"watching movies",
+    "qualification":"B.E"
+   },
+]
+  
+
+  for(var i in arr)
+  {
+    console.log(array[i]);
+  }
